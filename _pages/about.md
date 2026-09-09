@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Maryland, Baltimore County</a>. 1000 Hilltop Circle, Baltimore, MD 21250. k280@umbc.edu. "Always Give Up!".
 
 profile:
   align: right
