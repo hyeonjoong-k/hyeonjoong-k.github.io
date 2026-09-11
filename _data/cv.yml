@@ -7,8 +7,6 @@ cv:
   summary: A 
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
       username: example
     - network: LinkedIn
@@ -23,12 +21,12 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
+      - institution: University of Maryland, Baltimore County
+        location: Baltimore, MD
+        url: https://umbc.edu/
         area: Physics
-        studyType: PhD
-        start_date: 1900
+        studyType: Doctor of Philosophy
+        start_date: 2026
         end_date: 1905
         score: ""
         courses: "Theory of Relativity"
@@ -36,22 +34,33 @@ cv:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Maryland, Baltimore County
+        location: Baltimore, MD
+        area: Computer Science
+        studyType: Bachelor of Science
+        start_date: 2022
+        end_date: 2025
         highlights:
           - Description 1.
           - Description 2.
 
-    Experience:
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+        - institution: University of Maryland, Baltimore County
+        location: Baltimore, MD
+        area: Bioinformatics and Computational Biology
+        studyType: Bachelor of Science
+        start_date: 2022
+        end_date: 2025
+        highlights:
+          - Description 1.
+          - Description 2.
+
+
+    # Experience:
+    #   - company: University of Zurich
+    #     position: Associate Professor of Theoretical Physics
+    #     location: Zurich, Switzerland
+    #     start_date: 1909
+    #     end_date: 1911
 
     # Volunteer:
     #   - company: People's Climate March
@@ -89,18 +98,18 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - name: Korean
+        summary: "Conversational"
 
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
+    # Certificates: 
       # - name: Machine Learning
       #   date: 2018-01-01
       #   issuer: Stanford University
