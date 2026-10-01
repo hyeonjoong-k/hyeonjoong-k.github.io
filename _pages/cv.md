@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Maryland, Baltimore County, 2032 (Expected)
-* B.S. in Computer Science, University of Maryland, Baltimore County, 2025
-* B.S. in Bioinformatics and Computational Biology, University of Maryland, Baltimore County , 2025
+<div style="display: flex; justify-content: space-between;"><strong>Ph.D. in Computer Science</strong><span>University of Maryland, Baltimore County</span></div>
+<div style="display: flex; justify-content: flex-end; margin-bottom: 0.8em;"><em>2032 (Expected)</em></div>
+
+<div style="display: flex; justify-content: space-between;"><strong>B.S. in Computer Science</strong><span>University of Maryland, Baltimore County</span></div>
+<div style="display: flex; justify-content: flex-end; margin-bottom: 0.8em;"><em>2025</em></div>
+
+<div style="display: flex; justify-content: space-between;"><strong>B.S. in Bioinformatics and Computational Biology</strong><span>University of Maryland, Baltimore County</span></div>
+<div style="display: flex; justify-content: flex-end; margin-bottom: 2em;"><em>2025</em></div>
 
 Research Interests
 ======
