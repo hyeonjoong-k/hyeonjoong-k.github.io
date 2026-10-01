@@ -42,3 +42,25 @@ Research Experience
 * Designed 9 experiments predicting overall survival from mutation, CNA, and combined features, including drug-specific analyses for erlotinib, afatinib, and osimertinib.
 * Trained and evaluated Logistic Regression, SVM, Random Forest, and XGBoost classifiers with stratified 5-fold cross-validation, reporting accuracy, precision, recall, and F1.
 * Performed feature importance analysis across models, recovering established NSCLC biomarkers (TP53, KRAS, EGFR, STK11/KEAP1 co-mutations) as top predictors of survival.
+
+Teaching Experience
+======
+<div style="display: flex; justify-content: space-between;"><strong>CMSC 331: Principles of Programming Languages, UMBC</strong><span>Baltimore, MD</span></div>
+<div style="display: flex; justify-content: space-between;"><em>Graduate Teaching Assistant</em><span>August 2026 – Present</span></div>
+
+* Graded assignments and exams for a 70-student course.
+* Held weekly office hours supporting students with course concepts and programming assignments.
+* Proctored quizzes, midterm, and final examinations.
+
+Skills
+======
+<div style="display: grid; grid-template-columns: 170px 1fr; row-gap: 0.4em;">
+  <strong>Programming</strong><span>Python, C++, SQL, R, MATLAB</span>
+  <strong>Machine Learning</strong><span>PyTorch, NumPy, SciPy, scikit-learn, pandas, OpenCV</span>
+  <strong>Tools</strong><span>Git, LaTeX, Linux, Docker, ZFS, Hyper-V, Tailscale</span>
+</div>
+
+Service
+======
+<div style="display: flex; justify-content: space-between;"><strong>M.S. Thesis, Graph Neural Networks for Cancer Classification</strong><span>UMBC</span></div>
+<div style="display: flex; justify-content: space-between;"><em>Thesis Reviewer</em><span>2026</span></div>
