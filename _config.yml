@@ -27,10 +27,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "1000 Hilltop Circle, Baltimore, MD 21250"
+  employer         : "University of Maryland, Baltimore County"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "k280@umbc.edu" 
 
   # Academic websites
   # academia         : # URL
