@@ -15,7 +15,8 @@ Education
 <div style="display: flex; justify-content: flex-end; margin-bottom: 0.8em;"><em>2032 (Expected)</em></div>
 
 <div style="display: flex; justify-content: space-between;"><strong>B.S. in Computer Science</strong><span>UMBC</span></div>
-<div style="display: flex; justify-content: space-between; margin-bottom: 0.8em;"><span>B.S./M.S. Program, Completed Graduate-Level Coursework</span><em>2025</em></div>
+<div style="display: flex; justify-content: flex-end; margin-bottom: 2em;"><em>2025</em></div>
+<!-- <div style="display: flex; justify-content: space-between; margin-bottom: 0.8em;"><span>B.S./M.S. Program, Completed Graduate-Level Coursework</span><em>2025</em></div> -->
 
 <div style="display: flex; justify-content: space-between;"><strong>B.S. in Bioinformatics and Computational Biology</strong><span>UMBC</span></div>
 <div style="display: flex; justify-content: flex-end; margin-bottom: 2em;"><em>2025</em></div>
