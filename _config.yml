@@ -27,8 +27,8 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "1000 Hilltop Circle, Baltimore, MD 21250"
-  employer         : "University of Maryland, Baltimore County"
+  location         : "Baltimore, MD"
+  employer         : "UMBC"
   uri              : # URL
   email            : "k280@umbc.edu" 
 
