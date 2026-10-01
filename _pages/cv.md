@@ -54,7 +54,7 @@ Teaching Experience
 
 Skills
 ======
-<div style="display: grid; grid-template-columns: 170px 1fr; row-gap: 0.4em;">
+<div style="display: grid; grid-template-columns: 170px 1fr; row-gap: 0.4em; margin-bottom: 2em;">
   <strong>Programming</strong><span>Python, C++, SQL, R, MATLAB</span>
   <strong>Machine Learning</strong><span>PyTorch, NumPy, SciPy, scikit-learn, pandas, OpenCV</span>
   <strong>Tools</strong><span>Git, LaTeX, Linux, Docker, ZFS, Hyper-V, Tailscale</span>
