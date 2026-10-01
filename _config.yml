@@ -29,7 +29,8 @@ author:
   bio              : "Ph.D. Student in Computer Science"
   location         : "Baltimore, MD"
   employer         : "UMBC"
-  Lab              : "Future Sensing and Interaction Lab"
+  lab              : "Future Sensing and Interaction Lab"
+  lab_url          : "https://leetton.github.io"
   uri              : # URL
   email            : "k280@umbc.edu" 
 
