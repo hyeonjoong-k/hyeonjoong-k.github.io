@@ -24,9 +24,9 @@ repository               : "hyeonjoong-k.github.io/hyeonjoong-k.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hyeon Joong Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Computer Science @ UMBC"
   location         : "Baltimore, MD"
   employer         : "UMBC"
   uri              : # URL
