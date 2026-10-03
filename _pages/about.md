@@ -13,6 +13,4 @@ Hello!, I am a first-year Computer Science Ph.D. at University of Maryland, Balt
 
 ## Research Experience
 
-## Education
-
 ## News
