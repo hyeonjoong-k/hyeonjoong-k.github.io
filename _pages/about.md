@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!, I am a first-year Computer Science Ph.D. at University of Maryland, Baltimore County.
+Hello!, I am Hyeon Joong Kim but you can call me Joe. I am a first-year Computer Science Ph.D. student at University of Maryland, Baltimore County.
 
 ## Research Interests
 
