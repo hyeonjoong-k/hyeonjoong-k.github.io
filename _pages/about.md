@@ -15,6 +15,6 @@ Hello! I'm Hyeon Joong Kim, but you can call me Joe. Currently, I am a first-yea
 
 
 ## News
-- **2026/10/06**
+- **2026/10/06** Awarded the UMBC Cybersecurity Graduate Fellowship for 2027–2028.
 - **2026/09/04** Joined the [Future Sensing and Interaction Lab](https://leetton.github.io/index.html) under the guidance of Dr. Dong Li.
 - **2026/08/24** Started my Ph.D. in Computer Science at the University of Maryland, Baltimore County.
