@@ -19,7 +19,7 @@ Hello! I'm Hyeon Joong Kim, but you can call me Joe. Currently, I am a first-yea
 
 ## Current Projects
 ### Real-Time Multimodal Watermarking for Deepfake Detection in Live Video Calls
-Status: In-Progress (Literature Survey Phase)
+**Status**: In-Progress (Literature Survey Phase)
 
 In early 2024, a finance worker at a multinational firm was tricked into paying out about $25 million after joining a video call in which the company's CFO and other colleagues were all deepfakes. Cases like this show that live video calls can no longer be trusted at face value. My research explores video watermarking as a proactive defense, where authentic content is marked at the source with a fragile watermark so that any tampering can be detected.
 
