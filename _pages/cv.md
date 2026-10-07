@@ -29,8 +29,8 @@ Research Interests
     <li>Computer Vision</li>
   </ul>
   <ul>
-    <li>Machine Learning</li>
-    <li>Computational Oncology</li>
+    <li>Video Watermarking</li>
+    <li>Deepfake Detection</li>
   </ul>
 </div>
 
